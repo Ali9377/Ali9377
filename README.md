@@ -2,8 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend Developer, from Russia</h3>
 <p><b>my contacts:</b></p> 
-<p>email: aliganukaev02@bk.ru</p>
-<p>telegram: @loading914</p>
+<p><b>email: aliganukaev02@bk.ru</b></p>
+<p><b>telegram: @loading914</b></p>
 
 <!--
 **Ali9377/Ali9377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
